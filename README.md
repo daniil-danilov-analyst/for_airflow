@@ -37,3 +37,9 @@
 ---
 
 ## ⚙️ Архитектура DAG
+
+extract_feed() ─┐
+├── merge_df() ──┬── by_gender() ──┐
+extract_message()┘ ├── by_os() ──────┼── concat() ── load()
+└── by_age() ─────┘
+
