@@ -38,7 +38,7 @@
 
 ## ⚙️ Архитектура DAG
 
-![Схема DAG](https://raw.githubusercontent.com/daniil-danilov-analyst/daniil-danilov-analyst/main/DAG_схема.png?raw=true)
+![Схема DAG](https://github.com/daniil-danilov-analyst/for_airflow/blob/main/DAG_схема.png?raw=true)
 
 
 
